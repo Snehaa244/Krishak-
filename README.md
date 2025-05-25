@@ -1,6 +1,6 @@
 # 🌾 Krishak – Empowering the Roots of Agriculture
 
-![Krishak UI](./assets/krishak-ui-screenshot.png)  
+![Krishak UI](https://github.com/Snehaa244/Cover-Image/blob/main/Krishak%20home.PNG)  
 *A modern, intuitive, and elegant platform to bring innovation to the fields.*
 
 ---
@@ -9,7 +9,7 @@
 
 Explore the key functionalities of **Krishak** that are built to modernize agriculture:
 
-![Features Preview](./assets/krishak-features.png)
+![Features Preview](https://github.com/Snehaa244/Cover-Image/blob/main/Krishak%20features.PNG)
 
 - 🚿 **Smart Irrigation Planner** – Personalized water schedules based on crop type and weather  
 - 📍 **Geo-based Farm Mapping** – Monitor and manage farm areas with precision tools  
@@ -24,7 +24,7 @@ Explore the key functionalities of **Krishak** that are built to modernize agric
 
 ## 📖 About Krishak
 
-![About Preview](./assets/about-krishak.png)
+![About Preview](https://github.com/Snehaa244/Cover-Image/blob/main/Krishak%20about.PNG)
 
 **Krishak** is a next-generation agricultural platform designed to uplift and modernize farming practices.  
 With integrated AI, real-time data, and a user-friendly UI, **Krishak** is built for farmers, agri-tech enthusiasts, and rural entrepreneurs to thrive in today’s digital age.
