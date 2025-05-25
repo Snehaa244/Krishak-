@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# 🌾 Krishak – Empowering the Roots of Agriculture
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Krishak UI](./assets/krishak-ui-screenshot.png)  
+*A modern, intuitive, and elegant platform to bring innovation to the fields.*
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🌟 Features
 
-### `npm start`
+Explore the key functionalities of **Krishak** that are built to modernize agriculture:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Features Preview](./assets/krishak-features.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 🚿 **Smart Irrigation Planner** – Personalized water schedules based on crop type and weather  
+- 📍 **Geo-based Farm Mapping** – Monitor and manage farm areas with precision tools  
+- 🤖 **AI Chat Bot** – 24/7 assistant for agriculture-related queries and support  
+- 🌿 **Plant Disease Detection** – AI-powered image scanning to detect diseases early  
+- 🧑‍🌾 **Community Forum** – Connect, share insights, and discuss with fellow farmers  
+- 📈 **Crop Recommendation System** – Smart suggestions based on soil, weather, and region  
+- 🛒 **Agri Marketplace** – Buy/sell crops, tools, and more within a trusted community  
+- 🔔 **Weather Alerts** – Real-time localized updates for farming safety and decisions  
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📖 About Krishak
 
-### `npm run build`
+![About Preview](./assets/about-krishak.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Krishak** is a next-generation agricultural platform designed to uplift and modernize farming practices.  
+With integrated AI, real-time data, and a user-friendly UI, **Krishak** is built for farmers, agri-tech enthusiasts, and rural entrepreneurs to thrive in today’s digital age.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> **Our mission:** To empower India's backbone — our farmers — with the tools they need to grow smarter, faster, and safer.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## ❌ License & Usage Policy
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+> **© 2025 Krishak | All Rights Reserved**  
+> This project and its source code are strictly **NOT OPEN SOURCE**.  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+You are **not permitted** to:
+- ❌ Clone or fork this repository  
+- ❌ Reuse the codebase, UI components, or design in any form  
+- ❌ Use this for commercial or personal projects  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+🚫 **Any unauthorized use will be considered a violation of intellectual property rights and may lead to legal action.**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🙏 Thank you for respecting the efforts and originality behind Krishak.
