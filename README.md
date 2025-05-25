@@ -24,7 +24,7 @@ Explore the key functionalities of **Krishak** that are built to modernize agric
 
 ## 📖 About Krishak
 
-![About Preview](https://github.com/Snehaa244/Cover-Image/blob/main/Krishak%20about.PNG)
+![About Preview](https://github.com/Snehaa244/Cover-Image/blob/main/Krishak%20About.PNG)
 
 **Krishak** is a next-generation agricultural platform designed to uplift and modernize farming practices.  
 With integrated AI, real-time data, and a user-friendly UI, **Krishak** is built for farmers, agri-tech enthusiasts, and rural entrepreneurs to thrive in today’s digital age.
